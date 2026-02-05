@@ -1,4 +1,4 @@
 # Rent-management-System
 Rent management System 
-Author - Mayank Singh Chouhan 
+Author - Mayank Singh Chouhan (UPES)
 
